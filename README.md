@@ -8,7 +8,9 @@ node.js连接mysql数据库
 
 ![1](https://github.com/HuiYouHua/node_js_mysql_connection/blob/master/1528708088743.jpg
 "1")
+----------------------------------------------------------------------------------------
 ![1](https://github.com/HuiYouHua/node_js_mysql_connection/blob/master/WX20180611-171810.png
 "1")
+----------------------------------------------------------------------------------------
 ![1](https://github.com/HuiYouHua/node_js_mysql_connection/blob/master/WX20180611-171322.png
 "1")
